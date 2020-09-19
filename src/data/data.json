@@ -1,0 +1,120 @@
+{
+    "Header": {
+
+        "title": "",
+        "paragraph": ""
+
+    },
+    "About": {
+        "paragraph": " The aim of Little India Project is to give a platform to the exquisite and unique handicrafts of India. We Aim on retaining the authencity of products made by the very hands of the Indian artists and craftsmen. Not encouraging mass production and giving time to make each and every product to order and mostly, to Utmost perfection! We also aim on Making the artists and their brands visible to a wider range of Audience.",
+        "Why": [
+            "Reason1",
+            "Reason2"
+
+        ],
+        "Why2": [
+            "Reason3",
+            "Reason4"
+
+        ]
+    },
+    "Services": [{
+            "icon": "fa fa-wordpress",
+            "name": "Cerramic & Pottery",
+            "text": ""
+        },
+        {
+            "icon": "fa fa-cart-arrow-down",
+            "name": "Textile & Fabric",
+            "text": ""
+        },
+        {
+            "icon": "fa fa-cloud-download",
+            "name": "Accessories",
+            "text": ""
+        },
+        {
+            "icon": "fa fa-language",
+            "name": "Stationery",
+            "text": ""
+        },
+        {
+            "icon": "fa fa-plane",
+            "name": "Decor",
+            "text": ""
+        },
+        {
+            "icon": "fa fa-pie-chart",
+            "name": "Healthcare",
+             "text": ""
+        }
+
+
+    ],
+    "Testimonials": [{
+            "img": "img/testimonials/01.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "John Doe"
+        },
+        {
+            "img": "img/testimonials/02.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "Johnathan Doe"
+        },
+        {
+            "img": "img/testimonials/03.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "John Doe"
+        },
+        {
+            "img": "img/testimonials/04.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "Johnathan Doe"
+        },
+        {
+            "img": "img/testimonials/05.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "John Doe"
+        },
+        {
+            "img": "img/testimonials/06.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "Johnathan Doe"
+        }
+    ],
+    "Team": [{
+            "img": "img/team/sravani.jpeg",
+            "name": "Sravani",
+            "job": "CEO"
+        }
+    ],
+    "Contact": {
+        "address": "4321 California St, San Francisco, CA 12345 ",
+        "phone": "+1 123 456 1234",
+        "email": "info@company.com",
+        "facebook": "fb.com",
+        "twitter": "twitter.com",
+        "youtube": "youtube.com"
+    },
+    "Features": [{
+            "icon": "fa fa-comments-o",
+            "title": "Lorem ipsum",
+            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+        },
+        {
+            "icon": "fa fa-bullhorn",
+            "title": "Lorem ipsum",
+            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+        },
+        {
+            "icon": "fa fa-group",
+            "title": "Lorem ipsum",
+            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+        },
+        {
+            "icon": "fa fa-magic",
+            "title": "Lorem ipsum",
+            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+        }
+    ]
+}
