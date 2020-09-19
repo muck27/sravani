@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/sravani/static/css/main.61ee0b10.chunk.css",
+    "main.js": "/sravani/static/js/main.bba9aa51.chunk.js",
+    "main.js.map": "/sravani/static/js/main.bba9aa51.chunk.js.map",
+    "runtime-main.js": "/sravani/static/js/runtime-main.9369ed71.js",
+    "runtime-main.js.map": "/sravani/static/js/runtime-main.9369ed71.js.map",
+    "static/js/2.d5b4bb76.chunk.js": "/sravani/static/js/2.d5b4bb76.chunk.js",
+    "static/js/2.d5b4bb76.chunk.js.map": "/sravani/static/js/2.d5b4bb76.chunk.js.map",
+    "index.html": "/sravani/index.html",
+    "precache-manifest.ecb259406220d695840f91563ea9ed65.js": "/sravani/precache-manifest.ecb259406220d695840f91563ea9ed65.js",
+    "service-worker.js": "/sravani/service-worker.js",
+    "static/css/main.61ee0b10.chunk.css.map": "/sravani/static/css/main.61ee0b10.chunk.css.map",
+    "static/js/2.d5b4bb76.chunk.js.LICENSE.txt": "/sravani/static/js/2.d5b4bb76.chunk.js.LICENSE.txt",
+    "static/media/background.jpg": "/sravani/static/media/background.9d353d73.jpg",
+    "static/media/logo.jpeg": "/sravani/static/media/logo.b5cb52ca.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9369ed71.js",
+    "static/js/2.d5b4bb76.chunk.js",
+    "static/css/main.61ee0b10.chunk.css",
+    "static/js/main.bba9aa51.chunk.js"
+  ]
+}
